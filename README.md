@@ -6,46 +6,47 @@ The dashboard provides actionable insights into total sales, outlet performance,
 
 Key Highlights
 
-  Interactive Filters:
+
+  1.Interactive Filters:
   
-  Outlet Size: High, Medium, Small
-  Outlet Location: Tier 1, Tier 2, Tier 3
-  Item Type: Multiple grocery categories
+  1.Outlet Size: High, Medium, Small
+  2.Outlet Location: Tier 1, Tier 2, Tier 3
+  3.Item Type: Multiple grocery categories
   
-  KPI Cards: Quick glance at
+  2.KPI Cards: Quick glance at
   
-  Total Sales: $1.2M
-  Average Sales: $141K
-  No. of Items: 8,523
-  Average Rating: 4.0 ⭐
+  1.Total Sales: $1.2M
+  2.Average Sales: $141K
+  3.No. of Items: 8,523
+  4.Average Rating: 4.0 ⭐
   
-  Visual Analytics:
+  3.Visual Analytics:
   
-  Trend Analysis: Year-wise outlet establishment and sales growth.
-  Outlet Size & Location: Comparison of sales distribution by size and tier.
-  Fat Content Analysis: Low Fat vs Regular product sales.
-  Item Type Contribution: Category-wise sales comparison.
-  Outlet Type Performance: Total sales and number of items sold.
+  1.Trend Analysis: Year-wise outlet establishment and sales growth.
+  2.Outlet Size & Location: Comparison of sales distribution by size and tier.
+  3.Fat Content Analysis: Low Fat vs Regular product sales.
+  4.Item Type Contribution: Category-wise sales comparison.
+  5.Outlet Type Performance: Total sales and number of items sold.
   
-  Tools & Techniques
+  4.Tools & Techniques
   
-  Microsoft Excel: Dashboard design, interactive slicers, and formatting.
-  Pivot Tables & Pivot Charts: For aggregating and visualizing large datasets.
-  Conditional Formatting: Highlighting key metrics.
-  Data Cleaning & Transformation: Pre-processed grocery sales dataset for accurate insights.
+  1.Microsoft Excel: Dashboard design, interactive slicers, and formatting.
+  2.Pivot Tables & Pivot Charts: For aggregating and visualizing large datasets.
+  3.Conditional Formatting: Highlighting key metrics.
+  4.Data Cleaning & Transformation: Pre-processed grocery sales dataset for accurate insights.
   
-  Key Terms
+  5.Key Terms
   
-  KPI (Key Performance Indicator) – Metrics like Total Sales, Avg Sales, Avg Rating.
-  Slicers – Excel filters to interactively explore data.
-  Pivot Table – Summarizes large datasets efficiently.
-  Data Visualization – Charts and graphs for better decision making.
+  1.KPI (Key Performance Indicator) – Metrics like Total Sales, Avg Sales, Avg Rating.
+  2.Slicers – Excel filters to interactively explore data.
+  3.Pivot Table – Summarizes large datasets efficiently.
+  4.Data Visualization – Charts and graphs for better decision making.
   
-  Insights Derived
+  6.Insights Derived
   
-  Tier 3 locations generated the highest total sales.
-  Low Fat products contributed ~65% of total revenue.
-    Supermarket Type 1 outlets lead in both total sales and items sold.
+  1.Tier 3 locations generated the highest total sales.
+  2.Low Fat products contributed ~65% of total revenue.
+  3.Supermarket Type 1 outlets lead in both total sales and items sold.
   
   Learning Outcomes
     
